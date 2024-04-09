@@ -1,0 +1,3 @@
+[submodule "external/MeatPy"]
+	path = external/MeatPy
+	url = https://github.com/judmejiabe/MeatPy.git
