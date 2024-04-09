@@ -124,6 +124,7 @@ if __name__ == '__main__':
     data_path = Path('./data.nosync')
 
     raw_data_path = data_path / 'Raw_Data'
+    raw_data_path.mkdir(parents=True, exist_ok=True) 
 
     # Recorded data directory
     recorded_data_path = data_path / 'Recorded_Data' 
