@@ -1,0 +1,6 @@
+matplotlib==3.5.3
+numpy==1.26.4
+pandas==2.2.1
+pytz==2023.3.post1
+setuptools==68.2.2
+databento==0.27.0
